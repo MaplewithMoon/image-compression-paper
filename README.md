@@ -3,7 +3,7 @@
 本项目旨在收录和建立一个deep image compression领域的paper list（画饼），目前收录了部分早期的deep image compression方面的工作，作为入门级别的论文导读。
 根据使用网络结构的不同，将早期deep image compression方向的工作分为3部分，即基于RNN的方法、基于CNN的方法和基于GAN的方法。在此基础上，将目前主流的，即基于超先验模型（hyper prior model）和上下文模型(context model)（本质上也是CNN based methods）的相关基础论文单列为一类，值得精读。此外，也会逐步在others类别中，收录一些关于deep image compression方向的思考与探索性工作，以及一些炼丹向的实用tricks或验证实验方向的工作。
 
-由于RNN、CNN、GNN based methods存在比较明显的时间梯度，建议阅读顺序为surver——RNN——CNN——GAN。值得注意的是，虽然网络结构不同，但这些方法大体上都遵循着“变换——量化——熵编码”这一基本思路，如果阅读过程中有所迷失，建议对照这一思路加以分析阅读。
+由于RNN、CNN、GNN based methods存在比较明显的时间梯度，建议阅读顺序为survey——RNN——CNN——GAN。值得注意的是，虽然网络结构不同，但这些方法大体上都遵循着“变换——量化——熵编码”这一基本思路，如果阅读过程中有所迷失，建议对照这一思路加以分析阅读。
 
 Survey:
 

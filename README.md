@@ -9,11 +9,11 @@ Survey:
 
 RNN based compression methods:
 
-[Variable Rate Image Compression with Recurrent Neural Networks  2016 Google](https://arxiv.org/abs/1511.06085)
+[Variable Rate Image Compression with Recurrent Neural Networks  2016](https://arxiv.org/abs/1511.06085)
 
-[Full Resolution Image Compression with RecurrentNeural Networks   2016 Google](https://www.ijraset.com/fileserve.php?FID=9723)
+[Full Resolution Image Compression with RecurrentNeural Networks   2016](https://www.ijraset.com/fileserve.php?FID=9723)
 
-[Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks   2017 Google](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnston_Improved_Lossy_Image_CVPR_2018_paper.pdf)
+[Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks   2017](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnston_Improved_Lossy_Image_CVPR_2018_paper.pdf)
 
 CNN based compression methods:
 
@@ -23,6 +23,14 @@ CNN based compression methods:
 
 [Deep Image Compression via End-to-End Learning 2018](https://arxiv.org/pdf/1806.01496.pdf)
 
+
+GAN based:
+
+[Real-Time Adaptive Image Compression 2017](https://arxiv.org/pdf/1705.05823.pdf)
+
+[Generative Adversarial Networks for Extreme Learned Image Compression 2018](https://arxiv.org/pdf/1804.02958.pdf)
+
+[Extreme Image Coding via Multiscale Autoencoders Generative Adversarial Optimization 2019](https://arxiv.org/pdf/1904.03851v2.pdf)
 
 Hyper Prior:
 
@@ -34,13 +42,7 @@ Hyper Prior:
 
 [Joint Autoregressive and Hierarchical Priors for Learned Image Compression 2018](https://arxiv.org/pdf/1809.02736.pdf)
 
-GAN based:
 
-[Real-Time Adaptive Image Compression 2017](https://arxiv.org/pdf/1705.05823.pdf)
-
-[Generative Adversarial Networks for Extreme Learned Image Compression 2018](https://arxiv.org/pdf/1804.02958.pdf)
-
-[Extreme Image Coding via Multiscale Autoencoders Generative Adversarial Optimization 2019](https://arxiv.org/pdf/1904.03851v2.pdf)
 
 Other stuffs:
 

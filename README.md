@@ -7,6 +7,8 @@
 
 Survey:
 
+[Learning End-to-End Lossy Image Compression: A Benchmark](https://arxiv.org/pdf/2002.03711.pdf)
+
 RNN based compression methods:
 
 [Variable Rate Image Compression with Recurrent Neural Networks  2016](https://arxiv.org/abs/1511.06085)
